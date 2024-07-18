@@ -1,6 +1,6 @@
 # Hi, I’m @akristianto
 
-👋 Hi, I’m [Andrew Kristianto] (@akristianto)  
+👋 Hi, I’m Andrew!  
 👀 I’m interested in data analytics, financial analysis, and leveraging data to drive business decisions.  
 🌱 I’m currently learning data analytics with a focus on Python, SQL, Excel, and R.  
 📫 How to reach me: LinkedIn [Andrew Kristianto](https://www.linkedin.com/in/andrewkristianto)  
